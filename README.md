@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](https://raw.githubusercontent.com/username/banner-image-url)  <!-- Replace with your banner image URL -->
+![Banner](https://hofren.com/wp-content/uploads/2024/10/IMG_0464-scaled.jpg)  <!-- Replace with your banner image URL -->
 
 ---
 
