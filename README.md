@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-Hello! I’m **[Your Name]**, a passionate programmer who loves diving into the depths of **C** and **C++**. My primary goal is to develop an operating system from the ground up. I enjoy the challenge of low-level programming and the thrill of creating efficient systems. 
+Hello! I’m **Ivan**, a passionate programmer who loves diving into the depths of **C** and **C++**. My primary goal is to develop an operating system from the ground up. I enjoy the challenge of low-level programming and the thrill of creating efficient systems. 
 
 ### 🎯 Current Goals
 
@@ -35,16 +35,16 @@ Hello! I’m **[Your Name]**, a passionate programmer who loves diving into the 
 Here are some of the exciting projects I'm currently working on:
 
 #### 1. **Operating System Development**
-![OS Development Animation](https://raw.githubusercontent.com/username/os-animation-url)  <!-- Replace with your OS animation URL -->
+![OS Development Animation](https://logicmojo.com/assets/dist/new_pages/images/FOS.png)  <!-- Replace with your OS animation URL -->
 - Aiming to create a lightweight and efficient operating system.
 - **Features**: Multitasking, memory management, and a user-friendly interface.
 - **Tech Stack**: C, Assembly Language
 
 ---
 
-#### 2. **[Other Project Name]**
+#### 2. **A inventory system**
 - Brief description of another project you're working on.
-- **Tech Stack**: [Tech used in the project]
+- **Tech Stack**: Macbok, server and a oif system
 
 ---
 
